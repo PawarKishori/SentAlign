@@ -18,7 +18,7 @@ while l:
     if l[0]=='\n':
         new.write('\n')
     else:
-        new.write(l[:len(l)-1])
+        new.write(' '+l[:len(l)-1])
     l=eng.readline()
 eng.close()
 new.close()
@@ -30,7 +30,7 @@ while l:
     if l[0]=='\n':
         new.write('\n')
     else:
-        new.write(l[:len(l)-1])
+        new.write(' '+l[:len(l)-1])
     l=hin.readline()
     print(i)
     i+=1
