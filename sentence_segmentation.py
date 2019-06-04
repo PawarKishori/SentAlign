@@ -10,15 +10,15 @@ Python version : 3.7.3
 """
 A parallel sentence aligned corpus is given as input to this code.
 
-E_Input_file.txt : 
+SE_Input_file.txt : 
     This file consisting of english sentences 
-H_Input_file.txt :
+SH_Input_file.txt :
     This file consisting of hindi sentences 
-E_Output_file.txt :
+SE_Output_file.txt :
     Ouput file consisting of english sentences
     This will be created by the code and it consists of sentences which are properly combined according to puntuation marks 
     like "" , ( ) ,{ } , [ ] and ' '
-H_Output_file :
+SH_Output_file :
     The corresponding output file , consisting of hindi sentences
 Description:
     Below code aligns the sentences properly within the puntuation marks given above.
@@ -49,8 +49,8 @@ yes=0
 
 #A dictionary is used to store the line numbers which are merged so that corresponding line numbers must be merged in H_Input_file
 combined={}
-new_txt=open('<PATH> /Ouptut_file.txt','a')
-with open('<PATH>/E_Input_file.txt','r') as fp:
+new_txt=open('<PATH> /SE_Ouptut_file.txt','a')
+with open('<PATH>/SE_Input_file.txt','r') as fp:
     
     #Reading the file line by line
     line=fp.readline()
@@ -135,8 +135,8 @@ new_txt.write(prev+'\n')
 new_txt.close()
 
 #Now merging the same line numbers (which are combined in the E_Input_file ) in H_Input_file
-new_txt_out=open('<PATH> /H_Output_file.txt','a')
-with open('<PATH> /H_Input_file.txt','r') as fp:
+new_txt_out=open('<PATH> /SH_Output_file.txt','a')
+with open('<PATH> /SH_Input_file.txt','r') as fp:
     line=fp.readline()
     c=1
     prev=""
