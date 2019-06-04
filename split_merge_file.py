@@ -7,11 +7,11 @@ Created on Fri May 24 16:51:15 2019
 """
 
 """
-Merge_file:
+M_Merge_file:
     This is the input file 
-H_output_file :
+HM_output_file :
     Hindi file which is produced as output
-E_output_file :
+EM_output_file :
     English file which is produced as output
 Description:
     This code will split a merged file (output of champollian) into two files 
@@ -19,10 +19,10 @@ Description:
     -> another contains all the hindi sentences
 """
 
-eng=open('<PATH> /E_output_file ','a')
-hin=open('<PATH> /H_output_file','a')
+eng=open('<PATH> /EM_output_file ','a')
+hin=open('<PATH> /HM_output_file','a')
 i=0
-with open('<PATH> /chap_4') as fp:
+with open('<PATH> /M_Merge_file') as fp:
     t=fp.readline()
     while t:
         if(t[len(t)-1]=='\n'):
