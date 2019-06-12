@@ -1,0 +1,289 @@
+AI Module 1 
+What is AI, what is an AI technique, which problems need AI attention?
+Introduction
+AI or Artificial intelligence has many definitions associated with it.
+Read a new book and get a new definition.
+The AI, in simplest terms, is a way of solving difficult problems.
+The meaning of difficult problem is not which is difficult because of the logical requirements, but difficult because of the design of the computer itself.
+For example, it is very easy for my four-year-old daughter to see a few samples of cars and then classify a vehicle as a car but can a normal computer program do that?
+Many of us have observed that when we meet a friend after years and find him grown in all dimensions, we are still in a position to recognize him.
+Researchers are working on programs which can recognize simple photos and take decisions based on the same.
+As long as the face is similar to the face they have seen to a large extent, they do not have any issues.
+The problem starts when there is a significant difference between two photos of the same person may be taken at the different age or under different backgrounds.
+The researchers are finding difficulties in writing such programs due to obvious reasons as there is no algorithm known for solving these problems.
+My definition of difficult programs is these programs which are hard due to the design of the computer systems themselves.
+Humans can solve those problems as their minds are better equipped at solving such problems.
+Here are some more examples.
+When can a doctor examine and diagnose a disease in few minutes why a robot (or a computer program) is not yet designed to do that?
+When an averagely intelligent person can learn to play games like table tennis, why a robot is not yet designed to do so?
+If I tell you that I went to the movie last night and I liked ShahRukh’s performance, will you conclude also that I went to a theater, I bought tickets, took my seat, spend my time viewing the movie and return back?
+In fact, you may also additionally conclude that I am a fan of Shahrukh and may be a movie is “Happy New Year” as it is just released.
+What do you think if a computer program is told to listen to my statement and reason from it?
+The problems that need special attention
+Why it is hard for computers to solve these problems?
+Let me repeat that the computers are not designed to solve such problems.
+Humans have analog inputs, have a processor (the brain) which is very slow but runs highly parallel algorithms to solve problems (1010 neurons with on an average 1000 connections to other neurons, total 1014 connections) which are typically vision related, audio related and requires highly parallel processing.
+They possess common sense (somebody said that common sense is highly uncommon but is still possible for most to reason as I mentioned earlier in the text about the movie), they can work with incomplete information (I did not mention the name of the movie or the theater).
+They can also work with unstructured information (how have I recognized my friend after a long duration? I do not really know that myself!) Human brain stores information in a way that it is easier to have association and access information using that association.
+For example, if I ask you the name of an actor who is tall, aged over 70 and with spectacles, all most all of you will immediately respond that I am talking about Amitabh Bachchan.
+If I ask my daughter a KG question, name a TV serial with a cat-like alien being a friend of a human boy, she may immediately recall him to be Doraemon.
+A guest may play few bars of music of a popular song and you may immediately recall it to be “Awara Hun” or “Indiawale”.
+All these are examples of how we use association in retrieving information.
+Our brain stores information in a form that it is easier for us to retrieve information in this fashion.
+Conventional databases, renowned for their ability to crunch data, are not good at accessing data using associations.
+The AI or Artificial Intelligence is to write computer programs which can mimic human brain problem-solving capabilities.
+Elaine Rich, in her book "Artificial Intelligence" puts it as "AI is the study of programs at which, at the moment, people are better".
+One more author puts it as “AI is about writing intelligent programs”.
+One more definition is “AI is about building entities which can understand, perceive, predict and manipulates like humans do”.
+The last definition is little more interesting as it is also talking about entities which can act like humans and not merely programs.
+The robots which are confined in science fictions till now, AI is a study of methods of bringing them to the real world.
+So far, we know, it is not really possible.
+You may also wonder why that is so.
+In fact, to solve any problem, we, first of all, must know what the real problem is.
+Let us try to understand this point little further.
+Let us again jump back to the definitions of AI.
+I used the word "difficult programs" while somebody else used a word "intelligent programs".
+Do you consider brushing the teeth or picking up a chalk stick is an intelligent task?
+Unless you want your robot to do so, these tasks do not seem to require the use of intelligence.
+In fact, when you start building your robot, you may have to decide the exact pressure to apply to pick up the toothbrush or a choke stick, a slight miscalculation results into breaking it.
+The brushing process also is required to decide the direction and pressure of the movement of the toothbrush, which, however, trivial it look like, an extremely hard problem to solve even when the human head is considered stationary.
+Thus, I stick to the word “difficult programs” and not “intelligent programs”.
+To make the long story short, AI is about solving problems which are difficult to solve by conventional methods of computing as those methods are not designed to act like a human brain.
+It is clear from above discussion that if we ever want the computer programs or Robots (with computer programs running within) to be successful in performing tasks that we have discussed so far, we need to design our computer systems or programs differently.
+AI is the study of designing computer systems and programs where they can perform more like humans and solve similar problems.
+Why study AI
+AI is not a new discipline.
+In fact, it begun in 60's when many researchers began to take an interest in learning how human brain functions and try predicting the human behavior from their perceived model of the brain and try mimicking human behavior using automated programs.
+Many models ae presented till now and many research papers have given many researchers their Ph Ds and many people like me earned their living by teaching AI as a subject.
+The ultimate objective of building a machine acting like a human is not yet been fully met.
+It is not likely to be met in foreseeable future as well.
+Does that mean that we should not study AI?
+Or AI is a dead discipline?
+No.
+Let us understand why.
+Though the study of AI so far could not exactly achieve the goal it started with (and still perceives to achieve), it has contributed revolutionary solutions in the field of computer science.
+For example, we have programs which can find traffic related parameters from visual images and provide intelligent traffic control.
+There are programs which can recognize people's faces to a certain extent and provide search options like "Give me all photographs where this face appears in".
+Signature recognizing programs are common.
+Solutions which look at PDF files and convert them to document files by classifying each character of the PDF image are available.
+Access control systems which use biometric measures like thumb impression, retina scanning or face recognition for authentication are already available.
+Expert systems which may not be able to exactly work like a doctor but an assistant are available.
+Thus, AI has achieved many things.
+Game playing programs are in huge demand today.
+Most, if not all, use one or the other form of AI.
+Programs which can look at large volume of data and interpret them for example looking at network logs (which happens to be in terabits/hour kind of a case) analyzing Facebook posts and tweets to determine which party is going to win the election, predict possibilities of disease for a given person by analyzing genes of that person (which demands even higher level of volume and processing), processing astronomical data to learn interesting celestial objects and their characteristics, looking at financial transactions, zero in on fraudulent transactions or transactions carried out by potential terrorists etc. are seriously being carried out by AI programs right now.
+All in all, AI has provided answers to many challenging problems and likely to provide even without achieving what it set out to.
+Our aim in the series of discussion is to learn how AI attempts to solve problems, what the obstacles are and how they are overcome, and why some problems are not yet solved2.
+AI techniques
+The techniques that we need to use to solve the difficult problems are known as AI techniques.
+There are a few common characteristics of AI problems and the AI techniques must attempt to handle them.
+Here is a list.
+1.
+In most cases, the AI problems have no algorithm.
+For example signature or face recognition problems.
+We can recognize anybody’s face or signature but if asked how we have recognized somebody’s face we cannot answer.
+2.
+In many other cases, the process has simple algorithm but with many permutations and combinations.
+For example, a traveling salesmen problem itself is not hard but getting an optimum answer is beyond the scope of even the best of computer systems with a reasonable number of cities to travel.
+Another example is the game of chess.
+A normal chess program has on an average 50 moves from both sides.
+The average branching factor of the search tree is about 35.
+Looking at this complexity, if a chess program checks for every conceivable option once the opponent has played its first move, even with the best of the computing system in place, cannot take its first step in the opponent’s lifetime.
+The human genome mapping problem which is being handled by computer programs quite easily today was done by 13 countries together in 6 years for the first time.
+The speed up is based on AI algorithms popularly known as machine learning.
+The Sloan Digital Sky Survey is another project which collects multi-filter imaging and spectrometric redshift survey using a dedicated 2.
+5-meter wide-angle optical telescope, collected photometric observations about 500 million celestial objects and spectra for more than 3 million objects.
+It has covered almost 35% sky.
+The complete data is given to a machine learning program and available to astronomers for free.
+3.
+In many other cases, we do not want best answers but answers which are acceptable.
+For example, if we are planning to go to a movie we do not decide the best movie or the best theater or the best actor or actress.
+We would go to any movie with some of our expectations (like a good reasonable story, or some entertainment etc) is satisfied.
+Such answers are harder to get by conventional computing systems.
+4.
+Conventional programs do not usually have the learning component.
+A human can learn (almost) anything if taught properly.
+If we have such capacity in a programming system, we do not need anything else3.
+5.
+Another important requirement of many AI program is called explanation facility.
+If a human doctor diagnoses me with malaria, for example, I would invariably ask "How can you say so, doctor? " A doctor may respond back saying “because your red blood cell count is less than required”.
+A computer program’s response can be quite interesting.
+If a computer program respond like "You have malaria because the variable XYZ has value > 0.8 while QPR has value < 0.3 and all the values of ABC is below 0.5" probably none of us use that system again.
+AI has tried to answer solutions to almost all of above problems and much more in a successful way.
+It has to find its own techniques for solving these problems.
+Those techniques are called AI techniques.
+Let us try to understand what these AI techniques are and how they can actually help solve these problems.
+Heuristic based search
+The AI technique that we discuss first is called heuristic-based search.
+Most of the problems humans solve are of the kind where if an optimized solution is sought, it would be impossible to solve.
+For example, a game like chess has many alternatives to considered in the true sense impossible for any human being to explore in real time.
+A human player actually considers only a very small subset of all the moves and evaluates them.
+Also, he does not consider more than a few moves down.
+For example, he might think what opponent will do with the move that he is planning to play, how he will be responding to that and so on for a few moves.
+He does not consider the entire game.
+A number of moves (they are called plies in a game playing parlance) are decided based on the state of the game, the possibilities of fork (when opponent Night can take two different directions, one which threatens the King or Queen and another one can capture some other important piece. We can save only one of them at any given point of time usually), the possibility of the check (when our king is under attack), and so on.
+Human players develop their own rules (we call it heuristic knowledge) to play games like chess over a period of time.
+They also use their knowledge to determine a better move from alternatives available at any given point of time.
+Using these rules, they eliminate most of the not-so-useful options and can avoid overwhelming combinations of moves to choose from.
+Humans use this method of searching using heuristic in most of the problem solving that he does.
+For example, when a doctor examines the patient, he does not check him for all possible cases of diseases and does not offer all possible diagnostic tests to determine actual disease.
+A doctor may have some knowledge about where the patient lives, the work that he does, other important attributes of a patient (for example whether he is living a stressful like or leaves near a dirty place etc) and so on.
+He also has some idea about the atmosphere when the patient is reporting, for example, if he is reporting in a rainy season, a number of mosquitoes in the area, the predominant types of diseases in that area and so on.
+He also is aware of the patient history and probably knows a bit about his family history to learn about the probable disease the patient has.
+From this knowledge, he might have formed rules and use them to try fixing his attention to testing if the most probable disease is the culprit.
+For example in the rainy season and the patient leaving in an area with many mosquitoes, he might check for malaria first if the patient complaints about body ache and headache.
+During summer, he might think the other way round and check for a throat infection and so on.
+The rules formed by such experts help them zero in on the right diagnosis quickly.
+They do not need to search systematically checking for all possible causes and combinations of causes.
+In fact, a human is considered expert if he has such domain knowledge.
+If one thinks little further about any expert's working style, they can clearly see two different types of skill sets present with every expert.
+One is, obviously general problem-solving skills by which all experts tackle the problem.
+The other and much more important is this domain knowledge.
+The heuristics are the rules of thumb which represent expert’s knowledge about the domain.
+An expert with better heuristics is a better expert.
+Expert's heuristics represents their power and their ability to diagnose.
+Computer-based expert systems which try to mimic experts must have these heuristics as part of their system.
+Not only storing heuristic related information but to use them in making decisions is also an important part of every AI system.
+So the first important attribute of an AI system is the set of heuristics which can help reduce the search and solve the problem in real time.
+Any technique which enables incorporating heuristics into the system and allows using them in the process of reducing the number of options and finding solutions in real time is an AI technique.
+Sometimes the heuristic is denoted by other names, for example in the domain of Genetic Algorithms, the heuristic is known as a fitness function.
+A fitness function indicates how the solution is fit as per the definition of the user.
+Fitter solutions are kept and others are thrown out.
+The process is repeated until the final set of solutions with required attributes is found.
+In the process of simulated annealing, the heuristic is known as the objective function.
+In game playing algorithms it is known as the static evaluation function.
+Knowledge representation and inference
+Another important part of any AI system is the method to represent the knowledge about the system and a process which allows the manipulation of that knowledge for decision making.
+For example, many current systems, especially big data systems require processing text-based information coming from social media websites like Facebook and Tweeter.
+Take an example of a product based company.
+The company works hard to analyze tweets and posts their users make over the social media and guess if any comment is about the product (or the rival product).
+Tweets like "This bike is awesome, I ran it for 18 hours and it had no problems!”, or “I feel very comfortable even after 12 hours of riding” can tell a lot about the product than a conventional customer feedback form.
+On the contrary, “This washing machine is awful, it breaks down every month", or "This service center always gives the busy response to calls and do not respond to emails" are warning signs.
+A good program which can analyze the texts the user is posting finds out if that post has any relation to the product of the company, and if so, find if that comment is positive or negative can be extremely handy for the customer relationship department.
+Unfortunately, the biggest hurdle, in this case, is a good method for analyzing text, storing it in a form which can help us deduce something easily.
+There are many methods proposed which can solve it for one problem but fails to take account another.
+For example, a human can read all these tweets and also gather (looking at other information which an automated program is not designed to look at) that most problems reported is about a typical washing machine model or associated with a typical branch of service station (by finding out which washing machine that customer is using and which service branch is providing service to that customer).
+Can an automated system do so?
+It is hard for any system to solve the problem in a different way than it is originally designed to.
+One of the biggest challenges here is the representation of the knowledge in a form where such processing is possible.
+In fact, this is also an example of humans inferring from their knowledge to build on the knowledge that they have.
+For example, they look at the details of the tweets by customers and infer that the brand Y model X has a recurring problem called Z.
+This is an addition to the knowledge that they have.
+The knowledge representation must also allow inferring and adding to the knowledge storage (called knowledgebase).
+Any technique which allows the system to process and infer from existing knowledge is an AI technique.
+Currently, a branch of AI, Machine Learning, is doing exactly like what we are describing above.
+It looks at the huge amount of data, discover patterns from the data and infer like above.
+This inference and storage and retrieval of knowledge abilities also indicate an important attribute of human problem solvers, they learn from their experience and be better at any anything they practice regularly.
+An AI technique which can help the system learn from the past experience is an AI technique.
+There are quite a few AI techniques used for learning.
+A big class of systems uses neural network based systems for learning.
+Neural network based systems mimic the function of the human brain using the similar physical structure in which the brain is organized.
+The neural network system use methods are known as BPNN (Backpropagation neural networks), Markov Models, Hopfield Networks and a few more.
+Another area where the learning is equally important is known as genetic algorithms which are based on patterns of solutions used for the ecosystem for survival.
+They also have a strong learning component.
+Machine Learning, as its name suggests, is about methods for machines to learn automatically.
+One excellent tool to represent knowledge using these models is Matlab.
+Libraries to represent BPNN and other neural network models are available in Matlab and a programmer can easily write programs like signature recognition using Matlab.
+The other learning approach used in practice use predicate logic based approach.
+A language called Prolog was solely designed based on the predicate logic and is quite powerful in inferring from old knowledge.
+It uses predicate logic form for storing the knowledge and thus enables the program to infer from old data.
+Let us take an example to understand.
+Suppose following predicates are given.
+1.
+mother (Devaki, Krishna),
+2.
+brother (Kansa, Devaki)
+3.
+mama (X, Y) if the brother (X,Z) and mother(Z,Y)
+One can prove mama(Kansa, Krishna) using prolog using three predicates defined above.
+There are two types of knowledge in Prolog.
+The first two statements represent facts and the third represents a rule.
+A fact is a simple knowledge about a relation (a relation called mother between two entities called Devaki and Krishna for example) between a few (in our case two) entities.
+The rule is another type of knowledge.
+A rule contains variables which can assume values (for example the rule mama(X, Y), both X and Y are variables which can assume different values like Kansa and Krishna).
+One more similar method for knowledge representation is called frames.
+They are the first version of object-oriented knowledge representation.
+Many current languages, most notably Java and C++ can support knowledge representation using frames.
+For example, we may have a class frame called Student and object frame called Ramesh who is an actual student and can specify that Ramesh is an object of type Student.
+A class frame has attributes (for example frame Student might have some attributes like total number of objects known as cardinality in AI) represented in object oriented programming languages using static members.
+An object frame like Ramesh has attributes represented by non-static non-global members of a class.
+One of the growing areas of application of AI is the use of software robots.
+These robots (sometimes called bots) are software mobile entities.
+They travel from one machine to another and gather information and interpret them.
+The author of this module has developed a system during his Ph.D.
+work which used mobile agents which can go to target machines, gather intrusion-related information and come back.
+The sender collects information from all such mobile agents and deduces if there is an intrusion somewhere in the system or not.
+Such systems are quite handy for using behavior-based heuristics to figure out if the user has malicious intentions or not.
+Another form of knowledge representation is to use some kind of entity relationship diagram.
+Semantic net, conceptual dependency, and a few other methods are used to represent knowledge.
+In fact, the object-based representation can also be used in conjunction with and actually used with such knowledge representation schemes.
+Such knowledge is represented in a form of a graph where nodes represent entities while the arcs represent the relations between them.
+Each node, as well as the relation, can be represented as objects.
+In fact, special languages which provide direct representation using frames where proposed and used to a small extent.
+However, most designers prefer to use general purpose languages like Java.
+The techniques which allow the knowledge representation for manipulation and inference are also AI techniques.
+In fact, the requirements that we listed are all which the users can see on the surface.
+To support these requirements, the computing systems do need to provide many other requirements.
+An AI technique, in general, should help in knowledge representation, inference, learning and programming with heuristics.
+The requirement of learning is obvious for knowledge extension.
+In fact one important branch of deals with automates the learning process for information gathering.
+That information is to be used for further processing.
+That process of automated learning is known as machine learning.
+Another area where learning is more important is known as case-based reasoning.
+Whenever a human receives a problem, he would try to match that with other problems he has already solved and try using the same approach with required modification if he finds a perfect or a near match.
+Reason with incomplete information
+In fact, many AI programs need something more.
+For example, most humans can reason with incomplete information.
+They are able to guess and work.
+There is a set of problems known as constraint satisfaction problems which demand such ability.
+For example, we may get a new mobile with many new features.
+We can assume something and try, if fail, we assume something else and try.
+Usually, based on our previous experience, we can assume most things right and learn to use the mobile in a very short period of time.
+Let us take this problem to little deeper level.
+Suppose we want to find out how to set an alarm using a new mobile.
+We will try to find settings first.
+(That is based on our experience of having similar features under setting).
+Suppose under setting we find following menus @ Phone, Contacts, Logs, Connections, Accounts and More, which one will we choose?
+Most of us choose Phone as the clock is more likely to be part of it than any other menu.
+Suppose we cannot find it under phone, we may try a menu called More as it may be the next best option.
+What we are doing is assuming something (for example the phone menu designer is following some logical sequence) and checking for it.
+It is quite possible that a setting does not contain the clock or alarm related information and it is somewhere else.
+In most cases, we will be able to find alarm related information assuming some constraints and following the search process accordingly.
+Another example is processing user inputs in the form of voice or spoken commands.
+Sometimes the voice input matches with two items.
+The decision about which item to choose is decided based on context.
+We sometimes face the same problem when the mobile call is not coming clearly and we cannot listen to the other party’s voice cleanly.
+We may miss words or sometimes entire sentences but still can communicate based on our ability to judge the missing word or sentence.
+Another example is the domain all of us loves to be engaged with, games.
+A simple game of cards depends on heavily on our ability to assume what the other player's card values are.
+We do not have that information but we are able to assume and proceed with the information that we have.
+Thus the ability to continue despite incomplete information using assumptions is an important requirement of an AI program.
+A technique which enables the program to work with incomplete information is an AI technique.
+Fault tolerance 
+Another important attribute an AI system sometimes requires is fault tolerance.
+We do not only work with incomplete information but incorrect information as well.
+For example, if you ask a school boy a question like "Name the fish which is bigger than shark and have lungs”.
+Most school kids would respond back “I think you are asking for Whale, but it is not a fish, it is a mammal”.
+We provided wrong or incorrect information but a school kid can not only produce the correct answer, also help us learn about our mistake.
+Let me quote one more example.
+I was looking for a friend who told me over the phone that he lives in a society called "Ratlam”.
+While looking for him, I asked a panwala nearby “Where can I find a society called Ratlam?”.
+The panel responded, "Sir, there is a society called Satnam nearby, you better check there.” 
+Is there something which surprises us?
+If you are an AI teacher or researcher, you are.
+I have provided completely wrong information but I got correct answer (I could locate my friend actually from that society).
+How could that panwalla’s brain detect that?
+It is due to the fact that both Ratlam and Satnam look different, they sound similar.
+Can our AI-based programs get that?
+Some programs actually are able to do so and exhibit fault tolerance.
+Not all programs require this attribute, though.
+Summary
+Let us quickly recap what we have learned.
+AI is a discipline where we learn how to write difficult programs.
+The difficulty of such programs lie in their ability to act like humans, use heuristics to search when there is no direct solution available or search blindly would result in an inordinate amount of time.
+The programs need explanation facilities sometimes and sometimes fault tolerance.
+Sometimes ability of the program to work with insufficient information also matters.
+One of the important attribute of many programs which need AI support is learning.
+Neural network based learning methods are very popular today.
+The techniques which enable the program to have all of above abilities are called AI techniques.
+We will study many of them in due course.

@@ -1,0 +1,656 @@
+﻿la'ysf"kr js'ks vkSj IykfLVd
+
+'kkd ftUgsa ge igurs gSa] diM+s (fabric) ls fufeZr gksrs gSaA diM+s izkÑfrd vFkok Ñf=ke lzksrksa ls izkIr js'kksa (fibres) ls cuk;s tkrs gSaA D;k vki oqQN izkÑfrd js'kksa osQ uke crk ldrs gSa\ js'kksa dk mi;ksx fofoèk izdkj dh vusd ?kjsyw oLrqvksa osQ fuekZ.k gsrq Hkh fd;k tkrk gSA js'kksa ls fufeZr oqQN lkekU; oLrqvksa dh lwph cukb,A mUgsa izkÑfrd vkSj o`Qf=ke js'kksa ls fufeZr oLrqvksa esa foHkkftr djus dk iz;kl dhft,A lkj.kh 3-1 dks Hkfj,A
+
+
+
+iks
+
+
+
+3-1 la'ysf"kr js'ks D;k gSa\
+
+èkkxs ls tqM+s euoQksa osQ gkj esa ik;h tkus okyh ,d :i cukoV dks Lej.k djus dk iz;kl dhft, [fp=k 3-1(a)] vFkok [fp=k 3-1(b)] osQ leku oqQN dkx”k fDyiksa dks tksM+dj ,d yEch Ük`a[kyk cukus dk iz;kl dhft,A D;k nksuksa esa dksbZ lekurk gS\
+
+
+
+lkj.kh 3-1 % izko`Qfrd vkSj o`Qf=ke js'ks
+
+Ø-laoLrq dk uke
+
+
+
+vkius oqQN oLrqvksa dks o`Qf=ke fpfÉr D;ksa fd;k\ vkius viuh fiNyh d{kkvksa esa i<+k gS fd izkÑfrd js'ks] tSls & dikl] Åu] js'ke] vkfn ikSèkksa vFkok tarqvksa ls izkIr gksrs gSaA nwljh vksj la'ysf"kr js'ks euq";ksa }kjk cuk, tkrs gSaA blfy, ;s la'ysf"kr vFkok ekuo fufeZr js'ks dgykrs gSaA
+
+
+
+T li Rb Eu Cp N re ©e b to t o n
+
+js'ks dk izdkj (izkÑfrd@o`Qf=ke)
+
+(a)
+
+
+
+h s
+
+(b)
+
+
+
+d e
+
+
+
+fp=k 3-1 %
+
+
+
+(a) euosQ (b) dkx”k fDyi tksM+dj
+
+
+
+cuk;h x;h yEch Ük`a[kyk,¡A
+
+
+
+,d la'ysf"kr js'kk Hkh NksVh bdkb;ksa dks tksM+dj cuk;h x;h ,d Ük`a[kyk gSA izR;sd NksVh bdkbZ okLro esa ,d jklk;fud inkFkZ gSA bl izdkj dh vusd NksVh bdkb;k¡ feydj ,d cM+h ,dy bdkbZ cukrs gSa tks cgqyd (vaxzsth esa ikWyhej) dgykrh gSA ^ikyhej* 'kCn xzhd Hkk"kk osQ nks 'kCnksa (poly rFkk mer) ls feydj cuk gSA ^ikWyh* dk vFkZ vusd rFkk ^ej* dk vFkZ Hkkx vFkok bdkbZ gSA vr%] ,d ikWyhej ;k cgqyd cgqr lh bdkb;ksa osQ nksgjkus ls curk gSA
+
+
+
+
+
+cgqyd izÑfr esa Hkh ik;s tkrs gSaA mnkgj.k osQ fy,] dikl ,d cgqyd gS tks lsyqyks”k dgykrk gSA lsyqyks”k cM+h la[;k esa Xywdks”k bdkb;ksa }kjk fufeZr gksrk gSA
+
+
+
+B. ukbykWu
+
+
+
+3-2 la'ysf"kr js'kksa osQ izdkj
+
+A. js;kWu
+
+
+
+vkius d{kk VII esa i<+k gS fd js'ke dhV ls izkIr fd;k tkrk gSA bldh [kkst phu esa gqbZ Fkh vkSj bls yEcs le; rd dM+h lqj{kk esa xksiuh; j[kk x;kA js'ke js'ks ls izkIr diM+k cgqr e¡gxk gksrk gS ijUrq bldh lqUnj cqukoV (texture) us izR;sd O;fDr dks eksg fy;kA js'ke dks Ñf=ke :i ls cukus osQ iz;kl fd;s x,A mUuhloha 'krkCnh osQ vfUre Nksj ij oSKkfudksa dks js'ke leku xq.kksa okys js'ks izkIr djus esa liQyrk izkIr gqbZA bl izdkj dk js'kk dk"B yqxnh osQ jklk;fud mipkj ls izkIr fd;k x;kA ;g js'kk js;kWu vFkok Ñf=ke js'ke dgyk;kA ;|fi js;kWu izkÑfrd lzksr dk"B yqxnh ls izkIr fd;k tkrk gS] ;g ,d ekuo fufeZr js'kk gSA ;g js'ke ls lLrk gksrk gS ijUrq bls js'ke js'kksa osQ leku cquk tk ldrk gSA bls jaxksa dh dbZ fdLeksa esa j¡xk tk ldrk gSA js;kWu dks dikl osQ lkFk feykdj fcLrj dh pknjsa cukrs gSa vFkok Åu osQ lkFk feykdj dkyhu ;k xyhpk cukrs gSaA (fp=k 3-2)A
+
+
+
+T li Rb Eu Cp N re ©e b to t o n
+
+fp=k 3-3 % ukbykWu ls fufeZr fofHkUu oLrq,¡A
+
+
+
+ukbykWu ,d vU; ekuo&fufeZr js'kk gSA bls 1931 esa fcuk fdlh izkÑfrd dPps eky (ikSèks ;k tarq ls izkIr) dk mi;ksx fd;s cuk;k x;kA bldk fuekZ.k dks;ys] ty vkSj ok;q ls fd;k x;kA ;g izFke iw.kZ :i ls la'ysf"kr js'kk FkkA ukbykWu js'kk izcy] izR;kLFk vkSj gydk FkkA ;g pedhyk vkSj èkqyus esa lqxe FkkA vr% ;g diM+ksa osQ fuekZ.k gsrq cgqr izpfyr gqvkA D;k ukbykWu js'kk okLro esa bruk izcy gS fd ge blls ukbykWu iSjk'kwV vkSj pêðkuksa ij p<+us gsrq jLls cuk ldrs gSa\ ge ukbykWu ls fufeZr dbZ oLrqvksa dks mi;ksx esa ykrs gSa] tSlsμ tqjkcsa] jLls] rEcw] nk¡r lki+Q djus dk czq'k] dkjksa dh lhV osQ iV~Vs] Lyhfiax cSx ('k;u FkSyk)] ijns] vkfn (fp=k 3-3)A ukbykWu dk mi;ksx iSjk'kwV
+
+
+
+h s
+
+
+
+d e
+
+
+
+D;k ukbykWu osQ js'ks lpeqp brus etcwr gksrs gSa fd ge mlls iSjk'kwV vkSj pV ðkuksa ij p<+us dh jLlh dk fuekZ.k dj ldrs gSa\
+
+33
+
+
+
+fp=k 3-2 % js;kWu fufeZr oLrqvksa dk fp=k!
+
+la'ysf"kr js'ks vkSj IykfLVd
+
+
+
+
+
+vkSj pêðkuksa ij p<+us gsrq jLlksa osQ fuekZ.k esa Hkh fd;k tkrk gS (fp=k 3-4)A ,d ukbykWu dk rkj] bLikr osQ rkj ls vfèkd izcy gksrk gSA vkb, ge tkusa
+
+
+
+,d gqd yxk iyM+k ck¡èk nhft,] ftlesa ckV j[ks tk losaQA iyM+s esa ,d&,d djosQ ckV rc rd j[krs pys tkb, tc rd fd èkkxk VwV u tk,A èkkxs dks rksM+us gsrq vko';d oqQy Hkkj dks fy[k yhft,A ;g Hkkj js'ks dh lkeF;Z crkrk gSA blh izfØ;k dks Åu] ikWfy,LVj] js'ke vkSj ukbykWu osQ èkkxksa osQ lkFk nksgjkb,A vkadM+ksa dks lkj.kh 3-2 dh Hkkafr lkj.khc¼ dfj,A èkkxksa dks muosQ c<+rs lkeF;Z osQ Øe esa O;ofLFkr dfj,A izs{k.k lkj.kh 3-2
+
+
+
+fozQ;kdyki 3-1
+
+
+
+,d DySEi ;qDr yksgs dk LVS.M yhft,A yxHkx 60 lseh yEck ,d lwrh èkkxk yhft,A bls DySEi ls ck¡èk nhft, ftlls ;g Lora=k :i ls yVd tk,] tSlk fp=k 3-5 esa iznf'kZr gSA eqDr fljs ij
+
+
+
+T li Rb Eu Cp N re ©e b to t o n
+
+Ø-la1-
+
+
+
+èkkxs@js'ks osQ izdkj
+
+
+
+èkkxs dks rksM+us gsrq vko';d oqQy Hkkj
+
+
+
+dikl Åu
+
+
+
+23-
+
+
+
+fp=k 3-4 % ukbykWu js'kksa osQ mi;ksxA
+
+
+
+h s
+
+
+
+d e
+
+
+
+js'ke
+
+
+
+4-
+
+
+
+ukbykWu
+
+
+
+vki js'kksa (èkkxksa) dks yVdkus gsrq nhokj ij yxs ,d gqd vFkok dhy dk mi;ksx dj ldrs gSa vkSj nwljs fljs ij ikWfyFkhu dh FkSyh ck¡èk ldrs gSaA ckVksa osQ LFkku ij vki ,d gh vkdkj okyh dk¡p dh xksfy;ksa (;k xqfVdkvksa) dk mi;ksx dj ldrs gSaA
+
+
+
+lkoèkkuh % è;ku jgs fd lHkh èkkxs ,d gh yEckbZ ,oa yxHkx ,d gh eksVkbZ osQ gksus pkfg,A
+
+C. ikWfy,LVj vkSj ,sfØfyd
+
+
+
+fp=k 3-5 % ,d yksgs osQ LVS.M ij DySEi ls yVdrk gqvk ,d èkkxkA
+
+34
+
+
+
+ikWfy,LVj ,d vU; la'ysf"kr js'kk gSA bl js'ks ls cus diM+s esa vklkuh ls flyoVsa ugha iM+rhaA ;g likV jgrk gS vkSj ljyrkiwoZd èkqy tkrk gSA vr% ;g oL=k lkexzh gsrq i;kZIr mi;ksxh inkFkZ gSA vkius yksxksa dks lqUnj ikWfy,LVj deh”ksa vkSj vU; ifjèkku igus vo'; ns[kk gksxkA Vsjhyhu ,d yksdfiz; ikWfy,LVj gSA bls cgqr eghu js'kksa esa [khapk tk ldrk gS] ftUgsa fiQj fdlh Hkh vU; rarq leku cquk tk ldrk gSA
+
+foKku
+
+
+
+
+
+esjh ek¡ ty osQ fy, lnSo isV (PET) cksrysa vkSj pkoy rFkk phuh lap;u osQ fy;s isV tkj [kjhnrh gSaA eSa tkuus osQ fy, mRlqd gw¡ fd vkf[kj ;g isV gS D;k!
+
+
+
+isV (PET) ,d cgqr lqifjfpr izdkj dk ikWfy,LVj gSA bldk mi;ksx cksrysa] crZu] fiQYe] rkj vkSj vU; cgqr ls mi;ksxh mRiknksa osQ fuekZ.k gsrq fd;k tkrk gSA pkjksa vksj n`f"V ?kqekb, vkSj ikWfy,LVj ls fufeZr oLrqvksa dh ,d lwph cukb,A
+
+ikWfy,LVj (ikWfy + ,LVj) okLro esa ,d jlk;u tks ,LVj dgykrk gS] dh bdkb;ksa dh iqujkorhZ ls curk gSA ,LVj os jlk;u gSa tks iQyksa dks mudh xaèk iznku djrs gSA fufeZr diM+s ikWfydkWV] ikWfyowy] a VsjhdkWV] vkfn ukeksa ls csps tkrs gSaA tSlk fd uke lq>krs gSa] ;s diM+s nks izdkj osQ js'kksa dks feykdj cuk;s tkrs gSaA ikWfydkWV] ikWfy,LVj vkSj dikl dk feJ.k gSA ikWfyowy] ikWfy,LVj vkSj Åu dk feJ.k gSA
+
+
+
+djsa rks vki ik,¡xs fd budk O;ogkj izkÑfrd js'kksa ls fHkUu gSA vki ;g Hkh ik,¡xs fd la'ysf"kr js'ks xeZ djus ij fi?ky tkrs gSaA ;g okLro esa la'ysf"kr js'kksa dk ,d gkfudkjd xq.k gSA ;fn oL=kksa esa vkx yx tkrh gS rks ;g cgqr vkinktud gks ldrk gSA diM+k fi?ky tkrk gS vkSj iguus okys O;fDr osQ 'kjhj ls fpid tkrk gSA vr% gesa iz;ksx'kkyk vFkok jlksbZ?kj esa dk;Z djrs le; la'ysf"kr oL=k ugha iguus pkfg,A
+
+
+
+ge lfnZ;ksa esa LoSVj igurs gSa rFkk 'kky vFkok dEcyksa dk mi;ksx djrs gSaA buesa ls cgqr ls okLro esa izkÑfrd Åu ls fufeZr ugha gksrs] ;|fi os Åu osQ ln`'k fn[kkbZ nsrs gSaA ;s vU; izdkj osQ la'ysf"kr js'ks ls rS;kj fd;s tkrs gSa tks ,sfØfyd dgykrk gSA izkÑfrd lzksrksa ls izkIr Åu dkiQh e¡gxh gksrh gS tcfd ,sfØfyd ls cuh oLrq,¡ vis{kkÑr lLrh gksrh gSaA ;s fofoèk jaxksa esa miyCèk gksrh gSaA la'ysf"kr js'ks vfèkd fVdkÅ vkSj igq¡p osQ Hkhrj gksrs gSa ftlls ;s izkÑfrd js'kksa dh vis{kk vfèkd yksdfiz; gSaA vki iwoZ esa izkÑfrd js'kksa dks tykus dk fozQ;kdyki dj pqosQ gSa (fozQ;kdyki 3-6 d{kk VII)A ;fn vki la'ysf"kr js'kksa dks tykus dk iz;kl
+
+la'ysf"kr js'ks vkSj IykfLVd
+
+
+
+T li Rb Eu Cp N re ©e b to t o n
+
+fØ;kdyki 3-2
+
+
+
+vksg! vc eSa le>h fd esjh ek¡ jlksbZ?kj esa dke djrs le; ikWfy,LVj ls cus oL=k D;ksa ugha igurhA
+
+
+
+h s
+
+
+
+d e
+
+
+
+lHkh la'ysf"kr js'ks isVªksfy;e ewy osQ dPps eky tks isVªksjlk;u dgykrs gSa] ls fofoèk izØeksa }kjk rS;kj fd;s tkrs gSaA
+
+
+
+3-3 la'ysf"kr js'kksa osQ xq.kèkeZ
+
+dYiuk dfj, fd vkt o"kkZ dk fnu gSA vki fdl izdkj dk Nkrk iz;ksx esa yk,¡xs vkSj D;ksa\ la'ysf"kr js'ks vf}rh; xq.kèkeks± okys gksrs gSa tks bUgsa ifjèkku lkexzh gsrq yksdfiz; cukrs gSaA ;s 'kh?kz lw[krs gSa] vfèkd pykÅ] de e¡gxs] vklkuh ls miyCèk vkSj j[k&j[kko esa lqfoèkktud gSaA fuEufyf[kr fozQ;kdyki lEikfnr dhft, vkSj Lo;a lhf[k,A
+
+
+
+,d vkdkj osQ nks diM+s osQ VqdM+s yhft,A izR;sd yxHkx vkèkk ehVj oxZ dk gksA buesa ls ,d izkÑfrd js'kksa ls fufeZr gksuk pkfg,A nwljk la'ysf"kr js'kksa ls cuk gks ldrk gSA bu VqdM+ksa osQ p;u gsrq vius ekrk&firk dh enn ys ldrs gSaA
+
+35
+
+
+
+
+
+VqdM+ksa dks i`Fkd chdjksa ;k exksa esa fHkxksb, ftuesa cjkcj ek=kk esa ty Hkjk gksA ik¡p feuV ckn diM+s osQ VqdM+ksa dks ik=kksa ls fudky yhft, vkSj mUgsa oqQN feuV èkwi esa iSQykb,A izR;sd ik=k esa 'ks"k jgs ty osQ vk;ru dh ijLij rqyuk dhft,A D;k la'ysf"kr js'ks izkÑfrd js'kksa dh vis{kk de ty lks[krs gSa\ D;k os lw[kus esa de le; ysrs gSa\ ;g fozQ;kdyki vkidks la'ysf"kr diM+ksa osQ xq.kèkeks± osQ ckjs esa D;k crykrk gS\ vius ekrk&firk ls bu diM+ksa osQ izkÑfrd js'kksa dh rqyuk esa fpjLFkkf;Ro (fVdkÅiu)] ewY; vkSj j[k&j[kko osQ fo"k; esa tkudkjh izkIr dhft,A
+
+
+
+IykfLVd dh oLrq,¡ lHkh lEHko vkdkjksa vkSj lkb”kksa esa miyCèk gSa] tSlk vki fp=k 3-7 esa ns[k ldrs gSaA D;k vkidks vk'p;Z ugha gksrk fd ;g oSQls laHko gS\ rF; ;g gS fd IykfLVd vklkuh ls lk¡ps esa <kyk tk ldrk gS vFkkZr~ bls dksbZ Hkh vkdkj fn;k tk ldrk gSA IykfLVd dk iqu% pØ.k gks ldrk gS] bls iqu% iz;qDr fd;k tk ldrk gS] bls j¡xk vkSj fi?kyk;k tk ldrk gS] bls csydj pn~njksa esa cnyk tk ldrk gS vFkok bldh rkjsa cuk;h tk ldrh gSaA blfy, buosQ brus fofHkUu izdkj osQ mi;ksx gSaA
+
+
+
+3-4 IykfLVd
+
+
+
+vki ?kj ij izfrfnu dke esa vkus okyh cgqr lh IykfLVd dh oLrqvksa ls ifjfpr gksaxsA bl izdkj dh oLrqvksa vkSj muosQ mi;ksxksa dh ,d lwph cukb,A la'ysf"kr js'ks dh rjg IykfLVd Hkh ,d cgqyd gSA lHkh IykfLVdksa esa bdkb;ksa dh O;oLFkk ,d gh izdkj dh ugha gksrhA oqQN esa ;g jS[kh; gksrh gS rks vU; esa ;g fr;Zdc¼ (ØkWlc¼) gksrh gS (fp=k 3-6)A
+
+
+
+T li Rb Eu Cp N re ©e b to t o n
+
+(a) (b)
+
+
+
+h s
+
+
+
+d e
+
+
+
+fp=k 3-7 % IykfLVd&fufeZr fofHkUu oLrq,¡A
+
+
+
+ikWfyFkhu (ikWfy + ,Fkhu) IykfLVd dk ,d mnkgj.k gS tks lkekU; mi;ksx esa vkus okyh ikWfyFkhu FkSfy;k¡ cukus osQ dke vkrk gSA
+
+
+
+fp=k 3-6 % (a) jS[kh; (b) ØkWlc¼ O;oLFkk,¡A
+
+36
+
+
+
+vc] vki Lo;a IykfLVd osQ VqdM+s dks eksfM+,A D;k lHkh IykfLVd oLrq,¡ ljyrkiwoZd eksM+h tk ldrh gSa\ vki ns[ksxs fd oqQN IykfLVd dh oLrq,¡ ljyrkiwod a Z eksM+h tk ldrh gSa tcfd oqQN eksM+us gsrq cy yxkus ij VwV tkrh gSaA tc ge ,d IykfLVd dh cksry esa xeZ ty Mkyrs gSa rks og foÑr gks tkrh gSA ,slk
+
+foKku
+
+
+
+
+
+IykfLVd tks xeZ djus ij vklkuh ls foÑr gks tkrk gS vkSj ljyrkiwod eqM+ tkrk gS] FkeksIykfLVd dgykrk Z Z gSA ikWfyFkhu vkSj ihohlh (PVC) FkeksZIykfLVd osQ oqQN mnkgj.k gSaA budk mi;ksx f[kykSus] daf?k;k¡ vkSj fofHkUu izdkj osQ ik=kksa osQ cM+s iSekus ij fuekZ.k gsrq fd;k tkrk gSA nwljh vksj] oqQN IykfLVd ,sls gSa ftUgsa ,d ckj lk¡ps esa <ky fn;k tkrk gS rks bUgsa Å"ek nsdj ueZ ugha fd;k tk ldrkA ;s FkeksZlsfVax IykfLVd dgykrs gSaA nks mnkgj.k gSa & cSosQykbV vkSj esykekbuA cSosQykbV Å"ek vkSj fo|qr dk oqQpkyd gSA ;g fctyh osQ fLop] fofHkUu crZuksa osQ gRFks] vkfn cukus esa dke vkrk gSA esykekbu ,d cgqmi;ksxh inkFkZ gSA ;g vkx dk izfrjksèkd gS rFkk vU; IykfLVd dh vis{kk Å"ek dks lgus dh vfèkd {kerk j[krk gSA ;g iQ'kZ dh Vkbysa] jlksbZ osQ crZu vkSj diM+s cukus osQ mi;ksx esa fy;k tkrk gS tks vkx dk izfrjksèk djrs gSaA fp=k 3-8 esa FkeksZIykfLVd vkSj FkeksZlsfVax IykfLVd osQ fofHkUu mi;ksxksa dks iznf'kZr fd;k x;k gSA
+
+
+
+3-5 fodYi inkFkZμIykfLVd
+
+vkt ;fn ge dksbZ [kk| lkexzh] ty] nwèk] vpkj] lw[ks esos vkfn osQ lap;u djus dh lkspas rks IykfLVd ik=k lcls lqfoèkktud yxrs gSA bldk dkj.k mudk a gydk Hkkj] de dher] vPNk lkeF;Z vkSj mi;ksx esa vklkuh gSA èkkrqvksa dh vis{kk gyosQ gksus osQ dkj.k IykfLVd dk mi;ksx dkjks] ok;q;kuksa vkSj varfj{k;kuksa a esa Hkh gksrk gSA mi;ksx dh ;g lwph vlhfer gS] ;fn ge pIiy] iQuhZpj vkSj ltkoV dh oLrqvks] vkfn a ls fxuuk izkjEHk djsA a vkb;s] vc IykfLVd osQ vfHkyk{kf.kd xq.kksa dh foospuk djsaA
+
+A. IykfLVd vufHkfØ;k'khy gS
+
+
+
+T li Rb Eu Cp N re ©e b to t o n
+
+FkeksZlsfVax IykfLVd ls fufeZr oLrq,¡ FkeksZIykfLVd ls fufeZr oLrq,¡
+
+
+
+vki tkurs gSa fd yksgs tSlh èkkrqvksa dks tc ueh vkSj ok;q esa [kqyk NksM+ fn;k tkrk gS rks muesa tax yx tkrk gSA ijUrq IykfLVd ty vkSj ok;q ls vfHkfØ;k ugha djrsA mudk la{kkj.k vklkuh ls ugha gksrkA blfy, budk mi;ksx cgqr ls jlk;uksa lfgr] fofHkUu izdkj osQ inkFkks± osQ lap;u gsrq fd;k tkrk gSA
+
+B. IykfLVd gydk] izcy vkSj fpjLFkk;h gS
+
+
+
+h s
+
+
+
+d e
+
+
+
+fp=k 3-8 % IykfLVd&fufeZr oqQN oLrq,¡A
+
+la'ysf"kr js'ks vkSj IykfLVd
+
+
+
+iwoZ dky esa mi;ksx esa vkus okyh ckfYV;ksa osQ ckjs esa vius ekrk&firk vkSj nknk&nknh ls ckr dfj,A fdl inkFkZ dh cuh ckfYV;k¡ vkSj ex vkt vki mi;ksx esa ys jgs gSa\ IykfLVd ik=kksa dks mi;ksx esa ykus osQ D;k ykHk gSa\ D;ksafd IykfLVd cgqr gydk] izcy] fpjLFkk;h vkSj fofHkUu vkdkjksa vkSj lkb”kksa esa <kyk tk ldrk gS] vr% ;g fofHkUu mn~ns';ksa gsrq mi;ksx esa yk;k tkrk gSA IykfLVd lkekU;r% èkkrqvksa dh vis{kk lLrs gksrs gSaA ;s m|ksxksa vkSj ?kjsyw dk;ks± esa O;kid :i ls mi;ksx esa fy, tkrs gSaA fofHkUu izdkj osQ IykfLVd ik=kksa dh lwph cukb, ftUgsa vki nSfud thou esa mi;ksx esa ykrs gSaA
+
+37
+
+
+
+
+
+C. IykfLVd oqQpkyd gSa
+
+
+
+vkius Åij lh[kk gS fd IykfLVd Å"ek vkSj fo|qr~ osQ oqQpkyd gSaA blfy, fctyh osQ rkj IykfLVd ls <osQ jgrs gSa vkSj [kkuk cukus okys ik=kksa osQ gRFks blosQ cus gksrs gSaA
+
+D;k vki tkurs gSa\ IykfLVd dk LokLF;&ns[kHkky m|ksx esa O;kid mi;ksx gksrk gSA buosQ mi;ksxksa osQ oqQN mnkgj.k gSaμ nok dh xksfy;ksa@fVfd;ksa dks iSd djus gsrq] ?kkoksa dks lhus gsrq èkkxs] flfjat] fpfdRldksa osQ nLrkus vkSj fofoèk izdkj osQ fpfdRlh; ;a=kA ekbØksoso vksou esa Hkkstu idkus gsrq fof'k"V IykfLVd ik=k mi;ksx esa fy, tkrs gSaA ekbØksoso vksou esa Å"ek [kk| inkFkZ dks idk nsrh gS] ijUrq IykfLVd ik=k dks izHkkfor ugha djrhA VsÝykWu ,d fof'k"V IykfLVd gS ftl ij rsy vkSj ty fpidrk ugha gSA ;g Hkkstu idkus osQ ik=kksa ij u fpidus okyh ijr yxkus osQ dke vkrk gSA
+
+
+
+vfXulg IykfLVd % ;|fi la'ysf"kr js'ks vklkuh ls vkx idM+ ysrs gS] ijUrq ;g tkuuk jkspd gksxk a fd vkx cq>kus okys deZpkfj;ksa osQ ifjèkkuksa ij esykekbu IykfLVd dh ijr p<+h gksrh gS tks mls vfXujksèkd cukrh gSA
+
+
+
+3-6 IykfLVd vkSj i;kZoj.k
+
+tc ge ck”kkj tkrs gSa rks gesa IykfLVd vFkok ikWfyFkhu FkSyh esa yisVh oLrq,¡ feyrh gSaA ;g ,d dkj.k gS fd gekjs ?kjksa esa IykfLVd dk dpjk bdêòk gksrk jgrk gSA fiQj ;g IykfLVd owQM+snku esa pyk tkrk gSA IykfLVd dk fuLrkj.k ,d izèkku leL;k gSA D;ksa\ inkFkZ tks izkÑfrd izfØ;k] tSls thok.kq dh fØ;k] }kjk vi?kfVr gks tkrk gS] tSo fuEuhdj.kh; dgykrk gSA inkFkZ tks izkÑfrd izfØ;kvksa }kjk ljyrk ls fo?kfVr ugha gksrk] tSo vfuEuhdj.kh; dgykrk gSA lkj.kh 3-3 nsf[k,A
+
+
+
+vif'k"V osQ izdkj
+
+
+
+lCth vkSj iQyksa osQ fNyosQ] cpk gqvk Hkkstu] vkfn dkx”k
+
+
+
+lwrh diM+k ydM+h
+
+
+
+Åuh oL=k
+
+
+
+fVu] ,syqfefu;e vkSj vU; èkkrqvksa osQ fMCcs IykfLVd FkSfy;k¡
+
+
+
+T li Rb Eu Cp N re ©e b to t o n
+
+lkj.kh 3-3 vißkflr gksus esa yxus okyk yxHkx le;
+
+1 ls 2 lIrkg 10 ls 30 fnu 2 ls 5 ekg 10 ls 15 o"kZ yxHkx 1 o"kZ 100 ls 500 o"kZ dbZ o"kZ
+
+
+
+h s
+
+
+
+d e
+
+
+
+inkFkZ dh izÑfr
+
+tSo fuEuhdj.kh;
+
+
+
+tSo fuEuhdj.kh; tSo fuEuhdj.kh;
+
+
+
+tSo fuEuhdj.kh; tSo fuEuhdj.kh;
+
+
+
+tSo vfuEuhdj.kh;
+
+
+
+tSo vfuEuhdj.kh;
+
+
+
+lzksr : http://edugreen.teri.res.in/explore/solwaste/types.htm
+
+38 foKku
+
+
+
+
+
+D;ksafd IykfLVd vi?kfVr gksus esa dbZ o"kZ ys ysrk gS] ;g i;kZoj.k fgrS"kh ugha gSA ;g i;kZoj.k iznw"k.k dk dkj.k curk gSA blosQ vfrfjDr tc bl la'ysf"kr inkFkZ dks tyk;k tkrk gS rks iw.kZr;k tyus esa yEck le; ysrk gSA bl izØe esa ;g Hkkjh ek=kk esa fo"kSyh èkwe mRlftZr dj i;kZoj.k iznwf"kr djrk gSA bl leL;k dk lekèkku oSQls fd;k tk ldrk gS\ ;FkklaHko IykfLVd osQ mi;ksx ls cfp,A dikl ;k twV osQ cus FkSyksa dk iz;ksx dhft,A tSo fuEuhdj.kh; vkSj tSo vfuEuhdj.kh; vif'k"V dks vyx bdêòk dfj, vkSj budk vyx fuLrkj.k dfj,A bls vius ?kjksa ij O;ogkj esa ykb,A oqQN vkSj rjhosQ Hkh lq>kb, ftuosQ }kjk vki IykfLVd inkFkks± osQ mi;ksx dks de djus esa lg;ksx ns ldrs gSaA IykfLVd vif'k"V dks iqu% pfØr djuk csgrj gksxkA vfèkdka'k FkeksZIykfLVd iqu% pfØr fd;s tk ldrs gSaA ftu oLrqvksa dk iqu% pØ.k fd;k tk ldrk gS] mudh lwph cukb,A iqu% pØ.k osQ le; oqQN jax iznku djus okys vfHkdeZd feyk fn;s tkrs gSaA blls iqu% pfØr lkexzh dk mi;ksx] fo'ks"k :i ls [kk| inkFkks± osQ lap;u gsrq] lhfer gks tkrk gSA ,d mÙkjnk;h ukxfjd osQ :i esa 4 R fl¼kar dks ;kn jf[k,μ mi;ksx de dfj, (Reduce), iqu% mi;ksx dfj, (Reuse), iqu% pfØr dfj, (Recycle) vkSj iqu% izkIr dfj, (Recover)A bl izdkj dh vknrsa fodflr dfj, tks i;kZoj.k fgrS"kh gksA a
+
+
+
+T li Rb Eu Cp N re ©e b to t o n
+
+js'kk&foosd
+
+
+
+D;k vkius dksbZ ,slk dpjs dk <sj ns[kk gS tgk¡ i'kq] fo'ks"k :i ls xk;sa] dpjk [kk jgh gksa\ [kk| vif'k"V [kkus osQ izØe esa ;s i'kq ikWfyFkhu dh FkSfy;k¡ vkSj [kk| inkFkks± osQ jSij Hkh fuxy ysrs gSaA D;k vki blosQ ifj.kkeksa dh dYiuk dj ldrs gSa\ IykfLVd inkFkZ bu i'kqvksa osQ 'olu ra=k esa d.Bjksèk mRiUu djrs gSa vFkok vkek'k; esa ,d vLrj cukrs gSa vkSj vUrr% ;g mudh e`R;q dk dkj.k cu ldrs gSaA ykijokgh ls bèkj&mèkj isaQdh x;h ikWfyFkhu dh FkSfy;k¡ ukfy;ksa dks jksd nsrh gSaA dHkh&dHkh ge cgqr vfèkd ykijokgh fn[kkrs gSa vkSj fpIl] fcLoqQV vkSj vU; [kk| inkFkks± osQ jSij lM+d ij] m|ku vFkok fidfud osQ LFkkuksa ij isaQd nsrs gSaA D;k gesa ,slk djus ls igys lkspuk ugha pkfg,\ ,d mRrjnk;h ukxfjd osQ :i esa vki D;k mik; lq>krs gSa ftlls lkoZtfud LFky LoPN vkSj IykfLVd eqDr jgsa\
+
+
+
+h s
+
+
+
+d e
+
+
+
+IykfLVd dh FkSfy;k¡ tyk'k;ksa esa vFkok lM+d ij ugha isaQfoQ,A [kjhnnkjh osQ fy, tkrs le; ,d lwrh diM+s dk FkSyk ;k twV dk FkSyk ysdj tkb,A IykfLVd inkFkks± dk mi;ksx de ls de dfj,A mnkgj.k osQ fy,] IykfLVd osQ LFkku ij LVhy ls cus Hkkstu j[kus osQ fMCcs dks iz;ksx esa ykb,A
+
+
+
+la'ysf"kr js'ks vkSj IykfLVd
+
+
+
+39
+
+
+
+
+
+izeq[k 'kCn
+
+,sfØfyd Ñf=ke js'ke ukbykWu IykfLVd ikWfy,LVj ikWfyej ikWfyFkhu js;kWu
+
+
+
+vkius D;k lh[kk
+
+la'ysf"kr js'ks vkSj IykfLVd] izkÑfrd js'kksa dh Hkkafr] cgqr cM+h bdkb;ksa ls fufeZr gksrs gSa tks cgqyd dgykrs gSA cgqyd vusd a NksVh bdkb;ksa ls fufeZr gksrs gSaA tcfd izkÑfrd js'ks ikSèkksa vkSj i'kqvksa ls izkIr gksrs gS] la'ysf"kr a js'ks isVªksjlk;uksa osQ jklk;fud izØe.k ls izkIr gksrs gSaA izkÑfrd js'kksa dh Hkkafr bu js'kksa dks Hkh diM+ksa osQ :i esa cquk tk ldrk gSA
+
+
+
+la'ysf"kr js'ks Vsjhyhu
+
+
+
+FkeksZIykfLVd
+
+
+
+FkeksZlsfVax IykfLVd
+
+
+
+T li Rb Eu Cp N re ©e b to t o n
+
+
+
+la'ysf"kr js'kksa dk mi;ksx ?kjsyw oLrqvksa] tSlsμ jLls] ckfYV;k¡] iQuhZpj] ik=k vkfn ls ysdj ok;q;kuksa] ty;kuksa] varfj{k;kuksa] LokLF; lsok] vkfn mPp fof'k"Vrk okys mi;ksxksa esa fd;k tkrk gSA
+
+
+
+la'ysf"kr js'kksa osQ c`gr fuekZ.k gsrq mi;ksx esa fy, x, jlk;uksa osQ izdkj osQ vkèkkj ij mUgsa js;kWu] ukbykWu] ikWfy,LVj vkSj ,sfØfyd uke fn, x, gSaA fofHkUu izdkj osQ js'ks viuh izcyrk] ty vopw"k.k {kerk] ngu izÑfr] ewY;] fpjLFkkf;Ro] vkfn xq.kksa esa ijLij fHkUurk j[krs gSaA vkt IykfLVd osQ fcuk thou dh dYiuk ugha dh tk ldrh] pkgs ?kj gks ;k ckgj & IykfLVd lHkh vksj gSA IykfLVd }kjk mRiUu vif'k"V i;kZoj.k fgrS"kh ugha gSA tykus ij ;s fo"kSyh xSlsa mRiUu djrs gSaA Hkwfe ij Mky nsus ls bUgsa viHkz"V gksus esa dbZ o"kZ yx ldrs gSaA ,slk budh tSo vfuEuhdj.kh; izÑfr osQ dkj.k gksrk gSA gesa vko';drk gS fd la'ysf"kr js'kksa vkSj IykfLVd dk mi;ksx bl izdkj djsa fd ge muosQ vPNs xq.kksa dk vkuUn ys losQ vkSj a lkFk gh ltho leqnk;ksa osQ i;kZoj.kh; ladV dks U;wure dj losaQA
+
+
+
+h s
+
+
+
+d e
+
+
+
+40
+
+
+
+foKku
+
+
+
+
+
+vH;kl
+
+12oqQN js'ks la'ysf"kr D;ksa dgykrs gSa\ lgh mÙkj dks fpfÉr ( ) dhft,μ js;kWu ,d la'ysf"kr js'kk ugha gS] D;ksafd % (d) bldk :i js'ke leku gksrk gSA ([k) bls dk"B yqxnh ls izkIr fd;k tkrk gSA (x) blosQ js'kksa dks izkÑfrd js'kksa osQ leku cquk tk ldrk gSA 3mfpr 'kCnksa }kjk fjDr LFkkuksa dh iwfrZ dhft,μ (d) la'ysf"kr js'ks vFkok js'ks Hkh dgykrs gSaA
+
+
+
+T li Rb Eu Cp N re ©e b to t o n
+
+([k) la'ysf"kr js'ks dPps eky ls la'ysf"kr fd;s tkrs gSa] tks (x) la'ysf"kr js'ks dh Hkkafr IykfLVd Hkh ,d gSA 4567FkeksZIykfLVd vkSj FkeksZlsfVax IykfLVd osQ eè; vUrj dks Li"V dhft,A le>kb,] FkeksZlsfVax IykfLVd ls fuEufyf[kr D;ksa cuk;s tkrs gSaμ (d) Msxph osQ gRFks ([k) fo|qr Iyx@fLop@Iyx cksMZ 891011mnkgj.k nsdj iznf'kZr dhft, fd IykfLVd dh izÑfr vla{kkjd gksrh gSA 12¶tgk¡ rd lEHko gks IykfLVd osQ mi;ksx ls cfp,¸] bl dFku ij lykg nhft,A
+
+la'ysf"kr js'ks vkSj IykfLVd
+
+
+
+dgykrk gSA
+
+
+
+ukbykWu js'kksa ls fufeZr nks oLrqvksa osQ uke crkb, tks ukbykWu js'ks dh izcyrk n'kkZrh gksaA [kk| inkFkks± dk lap;u djus gsrq IykfLVd ik=kksa osQ mi;ksx osQ rhu izeq[k ykHk crkb,A
+
+
+
+h s
+
+
+
+d e
+
+
+
+fuEufyf[kr inkFkks± dks ^^iqu% pfØr fd;s tk ldrs gSa** vkSj ^^ iqu% pfØr ugha fd;s tk ldrs gSa** esa oxhZÑr dhft,μ VsyhiQksu ;a=k] IykfLVd f[kykSus] oqQdj osQ gRFks] lkexzh ykus okys FkSys] cky IokbaV isu] IykfLVd osQ dVksjs] fo|qr rkjksa osQ IykfLVd vkoj.k] IykfLVd dh oqQflZ;k¡] fo|qr fLopA
+
+
+
+jk.kk xfeZ;ksa osQ fy, deh”ksa [kjhnuk pkgrk gSA mls lwrh deh”ksa [kjhnuh pkfg, ;k la'ysf"kr\ dkj.k lfgr jk.kk dks lykg nhft,A
+
+
+
+D;k nk¡r lki+Q djus osQ czq'k dk gSUMy vkSj 'kwd (fczLVy) ,d gh inkFkZ osQ cukus pkfg,\ viuk mRrj Li"V dfj,A
+
+
+
+41
+
+
+
+
+
+v H ;k l
+
+
+
+13-
+
+
+
+dkWye A osQ inksa dk dkWye B esa fn, x, okD; [k.Mksa ls lgh feyku dfj,A dkWye A ikWfy,LVj VsÝykWu js;kWu ukbykWu dkWye B dk"B yqxnh dk mi;ksx dj rS;kj fd;k tkrk gSA iSjk'kwV vkSj ekstk cukus esa mi;ksx fd;k tkrk gSA u fpidus okys Hkkstu cukus osQ ik=kksa osQ fuekZ.k esa mi;ksx esa yk;k tkrk gSA diM+s esa vklkuh ls cy ugha iM+rsA
+
+
+
+1415-
+
+
+
+^^la'ysf"kr js'kksa dk vkS|ksfxd fuekZ.k okLro esa ouksa osQ laj{k.k esa lgk;d gks jgk gSA** fVIi.kh dhft,A ;g iznf'kZr djus gsrq ,d fozQ;kdyki dk o.kZu dfj, fd FkeksZIykfLVd fo|qr dk oqQpkyd gSA
+
+
+
+T li Rb Eu Cp N re ©e b to t o n
+
+foLrkfjr vf/xe μ fØ;kdyki ,oa ifj;kstuk,¡
+
+12345http://www.pslc.ws/macrog/index.htm http://www.edugreen.teri.res.in/exploresolwaste/types/htm http://www.packagingtoday.com/ html/
+
+
+
+h s
+
+
+
+d e
+
+
+
+D;k vkius ,d vfHk;ku osQ fo"k; esa lquk gS% ^^IykfLVd dk mi;ksx u djsa**A bl izdkj dh oqQN xfrfofèk;k¡ vkSj ukjs cukb,A oqQN jktdh; vkSj vjktdh; laLFkk,¡ gSa tks lkekU; tuleqnk; dks f'kf{kr djrh gSa fd fdl izdkj IykfLVd dk ln~mi;ksx djsa vkSj i;kZoj.k fgrS"kh vknrsa fodflr djsaA vius {ks=k esa mu laLFkkvksa dk irk yxkb, tks tkx:drk dk;ZØe pyk jgh gSaA ;fn bl izdkj dh dksbZ laLFkk ugha gS rks xfBr dfj,A fo|ky; esa okn&fookn izfr;ksfxrk vk;ksftr dfj,A cPpksa dks bPNkuqlkj la'ysf"kr diM+s vFkok izkÑfrd lzksrksa ls izkIr diM+ksa osQ vkS|ksfxd fuekZrk dk vfHku; djus dk volj nhft,A rc os ^^esjk diM+k Js"B gS** fo"k; ij okn&fookn dj ldrs gSaA vius vM+ksl&iM+ksl osQ ik¡p ifjokjksa esa tkb, vkSj irk yxkb, fd os fdl izdkj osQ oL=kksa dk mi;ksx djrs gSaA mudh ilan dk dkj.k D;k gS vkSj ewY;] fpjLFkkf;Ro rFkk j[k&j[kko osQ lanHkZ esa buosQ mi;ksx osQ D;k ykHk gSaA ,d NksVh fjiksVZ cukb, vkSj vius f'k{kd dks nhft,A dkcZfud vif'k"V tSo fuEuhdj.kh; gS tcfd IykfLVd ugha gSA bldks iznf'kZr djus osQ fy, ,d fozQ;kdyki dk fuekZ.k dfj,A ;fn vki js'kksa vkSj IykfLVd rFkk blls cuus okys mRiknksa osQ ckjs esa vfèkd tkudkjh izkIr djuk pkgrs gSa rks fuEufyf[kr osclkbVksa ij [kkst dh tk ldrh gS%
+
+
+
+http://www.nationalgeographic.com/resources/ngo/education/plastics http://www.bbc.co.uk/schools.gcsebitesize/design/textiles/fibresrev/
+
+
+
+42
+
+
+
+foKku
+
+
+
+
+
+D;k vki tkurs gSa\
+
+ukbykWu js'ke tSlk fn[krk gSA ;g izcy vkSj yphyk gksrk gSA tc 1939 esa ukbykWu lkeus vk;k rks mlosQ eksgd xq.kksa us turk esa luluh vFkok ukbykWu mUekn mRiUu dj fn;kA bl u;s js'ks ls cus efgykvksa osQ ekstksa dh Hkkjh ek¡x FkhA ijUrq nqHkkZX; ls f}rh; fo'o;q¼ (1939&1945) osQ pyrs ukbykWu mRiknu dk vfèkdka'k Hkkx iSjk'kwV cukus gsrq dke esa fy;k tkus yxkA ;q¼ osQ ckn] tc ekstksa dk mRiknu iqu% izkjEHk gqvk rks mudh iwfrZ ek¡x osQ vuqlkj ugha gks ldhA bl mRikn osQ fy, ,d Hkkjh dkyk cktkj FkkA ,d tksMk+ eksts osQ fy, efgykvksa dks dbZ ?kaVs ykbu esa yxuk iM+rk FkkA dbZ ckj ukbykWu minzo Hkh gks tkrs FksA
+
+
+
+T li Rb Eu Cp N re ©e b to t o n
+
+la'ysf"kr js'ks vkSj IykfLVd
+
+
+
+h s
+
+
+
+d e
+
+
+
+43
+
+
+
+
+
