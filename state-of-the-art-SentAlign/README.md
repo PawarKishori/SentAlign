@@ -11,16 +11,18 @@ We will get utf file, (name it as hindi_1) as an output.
 3.Copy English text from the PDF to a textfile, (name it as english_1).
 Now we have 2 files hindi_1 and english_1.
 
-4.Run champollion-1.2 by pasting hindi_1 and english_1 in Major-TH-Tool folder(refer Readme in Major-TH-Tool folder).
+4. Run the paragraph_making.py code on english_1 and hindi_1 files you will get two new files and these two files should be renamed to english_1 and hindi_1 
+
+5.Run champollion-1.2 in Major-TH-Tool folder(refer Readme in Major-TH-Tool folder).
 We will be getting a sentence aligned merge file as an output.
 
-5.Now we have to split that merge file into hindi and english separate files using split_merged_file.py .
+6.Now we have to split that merge file into hindi and english separate files using split_merged_file.py .
 WE will get 2 files containing english and hindi texts.
 
-6.On the hindi text file created in step 5, run utf8_to_wx.sh program from Convert_utf_wx folder(refer to Readme in the folder for the same).
+7.On the hindi text file created in step 5, run utf8_to_wx.sh program from Convert_utf_wx folder(refer to Readme in the folder for the same).
 The hindi file feed as input will be converted to wx format.
 
-7.On this wx format file run pre_punc.sh program as follows:
+8.On this wx format file run pre_punc.sh program as follows:
 pre_punc.sh path/to/file
 ex: pre_punc.sh /home/rajrajeshwari/Convert_utf_wx/myout (give extension if any)
 
